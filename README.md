@@ -1,4 +1,4 @@
-# 🚀 Exercícios de Desenvolvimento Web: HTML5 & CSS3
+# Exercícios de Desenvolvimento Web: HTML5 & CSS3
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -7,7 +7,7 @@ Este repositório reúne um conjunto de exercícios práticos focados na aprendi
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 | Ficheiros | Descrição |
 | :--- | :--- |
@@ -17,7 +17,7 @@ Este repositório reúne um conjunto de exercícios práticos focados na aprendi
 
 ---
 
-## 🕹️ Conteúdo e Funcionalidades
+## Conteúdo e Funcionalidades
 
 ### 1. GameZone Retro (Desafio 8-Bit)
 * **Design Retro**: Utilização de fundos escuros com gradientes e tipografia monoespaçada[cite: 1].
@@ -40,7 +40,7 @@ Este repositório reúne um conjunto de exercícios práticos focados na aprendi
 
 ---
 
-## 📂 Estrutura da Pasta de Recursos (Assets)
+## Estrutura da Pasta de Recursos (Assets)
 
 Para garantir a apresentação correta de todas as imagens e ficheiros multimédia, mantenha a seguinte organização na pasta `assets/`:
 
